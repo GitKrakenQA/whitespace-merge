@@ -3,13 +3,13 @@ whitespace-merge
 1. bloop
 2. blap
 
-
+      s
 
 
 3. beep                           
 4.
-5.
-6.
+5.      
+6.          
 7.
 8.
 9.
